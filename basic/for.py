@@ -5,13 +5,13 @@ names = ['Michael', 'Bob', 'Tracy']
 for name in names:
     print(name)
 
-sum = 0
+total = 0
 for x in [1, 2, 3]:
-    sum = sum + x
-print(sum)
+    total = total + x
+print(total)
 
-sum = 0
+total = 0
 for x in range(101):
-    sum = sum + x
-print(sum)
+    total = total + x
+print(total)
 
